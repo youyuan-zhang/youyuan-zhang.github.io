@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Youyuan Zhang"
+description              : "Second-year master's student in ECE Department at McGill University"
 repository               : "youyuan-zhang/youyuan-zhang.github.io"
 google_scholar_stats_use_cdn : false
 
