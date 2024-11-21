@@ -30,14 +30,15 @@ My research interests lie in computer vision and generative modeling, with a spe
 - [Distinctive Image Captioning via CLIP Guided Group Optimization](https://github.com), Youyuan Zhang*, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
 
 # 🎖 Honors and Awards
-- *2024* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# 📖 Educations
 - *2024*, Grad Excellence Award, McGill University
 - *2023*, Dean's Convocation Prize, McGill University
 - *2023*, First Class Honours in Computer Science, McGill University
 - *2021,2023*, Dean’s Honour List, McGill University
 - *2018*, James McGill Scholarship, McGill University
+
+# 📖 Educations
+- *2023 - Present*, M.Sc. in Electrical Engineering, advised by Prof. James J. Clark, **McGill University**
+- *2018 - 2023*, B.Sc. in Computer Science (with Honors), **McGill University**
 
 # 💬 Invited Talks
 - *2024.10*, Guiding Unconditional Diffusion Models Through Differentiable Constraints, REAP Lab, University of Toronto
