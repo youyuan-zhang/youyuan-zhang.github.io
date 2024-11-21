@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second year Electrical Engineering master's student at McGill University, advised by Prof. James J. Clark. Prior to that, I obtained my Bachelor's degree in Honors Computer Science at McGill University. 
 
-My research interests lies in computer vision and generative modeling, with a special focus on leveraging generative models for zero-shot inference and optimization task, including image/video editing, and efficient guidance methods for visual generation, model-based optimization and combinatorial optimization. Beside of this, I am also interested in various reasoning tasks, including visual reasoning and LLMs for reasoning.
+My research interests lie in computer vision and generative modeling, with a special focus on leveraging generative models for zero-shot inference and optimization task, including image/video editing, and efficient guidance methods for visual generation, model-based optimization and combinatorial optimization. Beside of this, I am also interested in various reasoning tasks, including visual reasoning and LLMs for reasoning.
 
 
 # 📝 Publications 
