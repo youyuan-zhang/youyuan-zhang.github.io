@@ -27,7 +27,7 @@ My research interests lie in computer vision and generative modeling, with a spe
 - [Decoupling Training-Free Guided Diffusion by ADMM](https://github.com), Youyuan Zhang*, Zehua Liu*, Zenan Li*, Zhaoyu Li*, James J. Clark, Xujie Si, **In Submission (CVPR 2025)**
 - [Design Editing for Offline Model-based Optimization](https://github.com), Ye Yuan*, Youyuan Zhang*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **In Submission (AAAI 2025)**
 - [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://github.com), Youyuan Zhang, Xuan Ju, James J. Clark, **WACV 2025**
-- [Distinctive Image Captioning via CLIP Guided Group Optimization](https://github.com), Youyuan Zhang*, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
+- [Distinctive Image Captioning via CLIP Guided Group Optimization](https://github.com), Youyuan Zhang, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
 
 # 🎖 Honors and Awards
 - *2024*, Grad Excellence Award, McGill University
