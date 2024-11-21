@@ -24,19 +24,20 @@ My research interests lies in computer vision and generative modeling, with a sp
 
 # 📝 Publications 
 
-- [Decoupling Training-Free Guided Diffusion by ADMM](https://github.com), Youyuan Zhang*, Zehua Liu, Zenan Li, Zhaoyu Li, James J. Clark, Xujie Si, **In Submission (CVPR 2025)**
+- [Decoupling Training-Free Guided Diffusion by ADMM](https://github.com), Youyuan Zhang*, Zehua Liu*, Zenan Li*, Zhaoyu Li*, James J. Clark, Xujie Si, **In Submission (CVPR 2025)**
+- [Design Editing for Offline Model-based Optimization](https://github.com), Ye Yuan*, Youyuan Zhang*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **In Submission (AAAI 2025)**
+- [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://github.com), Youyuan Zhang, Xuan Ju, James J. Clark, **WACV 2025**
+- [Distinctive Image Captioning via CLIP Guided Group Optimization](https://github.com), Youyuan Zhang*, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*, Grad Excellence Award, McGill University
+- *2023*, Dean's Convocation Prize, McGill University
+- *2023*, First Class Honours in Computer Science, McGill University
+- *2021,2023*, Dean’s Honour List, McGill University
+- *2018*, James McGill Scholarship, McGill University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.10*, Guiding Unconditional Diffusion Models Through Differentiable Constraints, REAP Lab, University of Toronto
