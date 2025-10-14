@@ -24,10 +24,14 @@ My research interests primarily lie in computer vision and generative modeling, 
 
 # 📝 Publications 
 
+- [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*,Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to ICLR 2026**
 - [Design Editing for Offline Model-based Optimization](https://arxiv.org/abs/2405.13964), Ye Yuan\*, Youyuan Zhang\*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **TMLR**
 - [Decoupling Training-Free Guided Diffusion by ADMM](https://arxiv.org/abs/2411.12773), Youyuan Zhang\*, Zehua Liu\*, Zenan Li\*, Zhaoyu Li\*, James J. Clark, Xujie Si, **CVPR 2025**
 - [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://arxiv.org/abs/2403.06269), Youyuan Zhang, Xuan Ju, James J. Clark, **WACV 2025**
 - [Distinctive Image Captioning via CLIP Guided Group Optimization](https://arxiv.org/abs/2208.04254), Youyuan Zhang, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
+
+# 📝 Professional Services
+- Conference Reviewer for ICLR (2026).
 
 # 🎖 Honors and Awards
 - *2024*, Grad Excellence Award, McGill University
