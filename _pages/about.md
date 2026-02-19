@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year master's student in Electrical Engineering at McGill University, advised by Prof. James J. Clark. Prior to that, I obtained my Bachelor's degree with honors in Computer Science at McGill University. 
+I am a first-year Ph.D. student in Computer Science at the University of Toronto, advised by Prof. Xujie Si. I received both my M.Sc. and B.Sc. degrees from McGill University, where I was advised by Prof. James J. Clark.
 
-My research interests primarily lie in computer vision and generative modeling, with a special focus on leveraging generative models for zero-shot inference and optimization task, including image/video editing, and efficient guidance methods for visual generation, model-based optimization and combinatorial optimization. Beside of that, I am also interested in neural symbolic reasoning, including visual reasoning and multi-model reasoning for geometric problem solving.
-
+My current research focuses on automated theorem proving, with broader interests in AI for mathematics and code, as well as neural-symbolic methods. Previously, I worked on generative modeling in computer vision.
 
 # 📝 Publications 
 
-- [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*, Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to ICLR 2026**
+- [DM-VQA: Benchmarking Cross-Modality Reasoning under Disjoint Information Sources](https://youyuan-zhang.github.io/), Sissi Jiang, Hangrui Bi, Youyuan Zhang, Xujie Si, **In Submission to ICML 2026**
+- [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*, Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to ICML 2026**
 - [Design Editing for Offline Model-based Optimization](https://arxiv.org/abs/2405.13964), Ye Yuan\*, Youyuan Zhang\*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **TMLR**
 - [Decoupling Training-Free Guided Diffusion by ADMM](https://arxiv.org/abs/2411.12773), Youyuan Zhang\*, Zehua Liu\*, Zenan Li\*, Zhaoyu Li\*, James J. Clark, Xujie Si, **CVPR 2025**
 - [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://arxiv.org/abs/2403.06269), Youyuan Zhang, Xuan Ju, James J. Clark, **WACV 2025**
 - [Distinctive Image Captioning via CLIP Guided Group Optimization](https://arxiv.org/abs/2208.04254), Youyuan Zhang, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
 
 # 📝 Professional Services
-- Conference Reviewer for ICLR (2026).
+- Conference Reviewer for ICLR (2026), ICML (2026).
 
 # 🎖 Honors and Awards
 - *2024*, Grad Excellence Award, McGill University
@@ -41,11 +41,14 @@ My research interests primarily lie in computer vision and generative modeling, 
 - *2018*, James McGill Scholarship, McGill University
 
 # 📖 Educations
-- *2023 - Present*, M.Sc. in Electrical Engineering, advised by Prof. James J. Clark, **McGill University**
+- *2025 - Present*, Ph.D. in Computer Science, advised by Prof. Xujie Si, **University of Toronro**
+- *2023 - 2025*, M.Sc. in Electrical Engineering, advised by Prof. James J. Clark, **McGill University**
 - *2018 - 2023*, B.Sc. in Computer Science (with Honors), **McGill University**
 
 # 💬 Invited Talks
 - *2024.10*, Guiding Unconditional Diffusion Models Through Differentiable Constraints, REAP Lab, University of Toronto. [Slides](https://docs.google.com/presentation/d/1Hzn7pfx2AmQ_JowyWX6gSyHuThF03Pqq/edit?usp=drive_link&ouid=106922112652147846490&rtpof=true&sd=true)
 
 # Miscellaneous
-Outside of research, I’m also a passionate fan of various FPS games, including Overwatch 2, Apex Legends, Valorant, Delta Force, Destiny 2, and more. I’ve achieved outstanding competitive results in some of them, reaching Master rank in Overwatch 2 (Seasons 3 and 15) and Apex Legends (Seasons 17 and 21). I'm always looking for new teammates to play with, so feel free to reach out if you’d like to join!
+Outside of research, I am a fan of competitive FPS games, including Overwatch 2 and Apex Legends. I have achieved Master rank in Overwatch 2 (Seasons 3 and 15) and Apex Legends (Seasons 17 and 21).
+
+I am also a longtime rock enthusiast, particularly of Chinese rock. Some of my favorite bands include Huichundan, Mayuan Poet, and Miserable Faith.
