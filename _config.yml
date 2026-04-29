@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Youyuan Zhang"
-description              : "Second-year master's student in ECE Department at McGill University"
+description              : "Ph.D. student at the University of Toronto"
 repository               : "youyuan-zhang/youyuan-zhang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,11 +24,11 @@ author:
   name             : "Youyuan Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "McGill University"
-  location         : "Montreal, QC, Canada"
+  location         : "Toronto, ON, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h8CnRpIAAAAJ"
-  email            : "youyuan.zhang@mail.mcgill.ca"
+  email            : "youy.zhang@mail.utoronto.ca"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
