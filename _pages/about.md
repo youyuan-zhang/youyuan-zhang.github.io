@@ -23,7 +23,7 @@ My current research focuses on automated theorem proving, with broader interests
 
 # 📝 Publications 
 
-- [DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent](https://youyuan-zhang.github.io/), Youyuan Zhang\*, Jialiang Sun\* Hangrui Bi, Chuqin Geng, Wenjie Ma, Zhaoyu Li†, Xujie Si†, **In Submission to COLM 2026**
+- [DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent](https://arxiv.org/pdf/2604.26311), Youyuan Zhang\*, Jialiang Sun\* Hangrui Bi, Chuqin Geng, Wenjie Ma, Zhaoyu Li†, Xujie Si†, **In Submission to COLM 2026**
 - [DM-VQA: Benchmarking Cross-Modality Reasoning under Disjoint Information Sources](https://youyuan-zhang.github.io/), Sissi Jiang, Hangrui Bi, Youyuan Zhang, Xujie Si, **In Submission to COLM 2026**
 - [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*, Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to ICML 2026**
 - [Design Editing for Offline Model-based Optimization](https://arxiv.org/abs/2405.13964), Ye Yuan\*, Youyuan Zhang\*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **TMLR**
