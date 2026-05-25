@@ -25,14 +25,14 @@ My current research focuses on automated theorem proving, with broader interests
 
 - [DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent](https://arxiv.org/pdf/2604.26311), Youyuan Zhang\*, Jialiang Sun\* Hangrui Bi, Chuqin Geng, Wenjie Ma, Zhaoyu Li†, Xujie Si†, **In Submission to COLM 2026**
 - [DM-VQA: Benchmarking Cross-Modality Reasoning under Disjoint Information Sources](https://youyuan-zhang.github.io/), Sissi Jiang, Hangrui Bi, Youyuan Zhang, Xujie Si, **In Submission to COLM 2026**
-- [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*, Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to ICML 2026**
+- [Euclid-Omni: A Unified Neuro-Symbolic Framework for Geometry Problem Solving](https://youyuan-zhang.github.io/), Zhaoyu Li\*, Hangrui Bi\*, Youyuan Zhang\*, Wenjie Ma, Zenan Li, Xujie Si, Kaiyu Yang, **In Submission to NeurIPS 2027**
 - [Design Editing for Offline Model-based Optimization](https://arxiv.org/abs/2405.13964), Ye Yuan\*, Youyuan Zhang\*, Can Chen, Haolun Wu, Zixuan Li, Jianmo Li, James J. Clark, Xue Liu, **TMLR**
 - [Decoupling Training-Free Guided Diffusion by ADMM](https://arxiv.org/abs/2411.12773), Youyuan Zhang\*, Zehua Liu\*, Zenan Li\*, Zhaoyu Li\*, James J. Clark, Xujie Si, **CVPR 2025**
 - [FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing](https://arxiv.org/abs/2403.06269), Youyuan Zhang, Xuan Ju, James J. Clark, **WACV 2025**
 - [Distinctive Image Captioning via CLIP Guided Group Optimization](https://arxiv.org/abs/2208.04254), Youyuan Zhang, Jiuniu Wang, Hao Wu, Wenjia Xu, **ECCV Workshop 2022**
 
 # 📝 Professional Services
-- Conference Reviewer for ICLR (2026), ICML (2026).
+- Conference Reviewer for ICLR (2026), ICML (2026 Silver Reviewer).
 
 # 🎖 Honors and Awards
 - *2024*, Grad Excellence Award, McGill University
@@ -52,4 +52,4 @@ My current research focuses on automated theorem proving, with broader interests
 # Miscellaneous
 Outside of research, I am a fan of competitive FPS games, including Overwatch 2 and Apex Legends. I have achieved Master rank in Overwatch 2 (Seasons 3 and 15) and Apex Legends (Seasons 17 and 21).
 
-I am also a longtime rock enthusiast, particularly of Chinese rock. Some of my favorite bands include Mayuan Poet, and Miserable Faith.
+I am also a longtime rock enthusiast, particularly of Chinese rock. Some of my favorite bands include Mayuan Poet, Hui Chun Dan and Miserable Faith.
