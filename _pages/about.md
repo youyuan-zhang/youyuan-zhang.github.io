@@ -50,6 +50,6 @@ My current research focuses on automated theorem proving, with broader interests
 - *2024.10*, Guiding Unconditional Diffusion Models Through Differentiable Constraints, REAP Lab, University of Toronto. [Slides](https://docs.google.com/presentation/d/1Hzn7pfx2AmQ_JowyWX6gSyHuThF03Pqq/edit?usp=drive_link&ouid=106922112652147846490&rtpof=true&sd=true)
 
 # Miscellaneous
-Outside of research, I am a fan of competitive FPS games, including Overwatch 2 and Apex Legends. I have achieved Master rank in Overwatch 2 (Seasons 3 and 15) and Apex Legends (Seasons 17 and 21).
+Outside of research, I am a fan of competitive FPS games, including Overwatch 2 and Apex Legends. I have achieved Master in Apex Legends and Grandmaster in Overwatch 2. In this year, I become a Top 500 player (#426) on the Chinese server.
 
 I am also a longtime rock enthusiast, particularly of Chinese rock. Some of my favorite bands include Mayuan Poet, Hui Chun Dan and Miserable Faith.
